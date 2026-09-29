@@ -17,5 +17,4 @@
 - [60-day cybersecurity challenge](https://github.com/manojsiddardhagutta-0251/60-days-cybersecurity-challenge)
 
 📫 Reach me: Email:siddardhagutta@gmail.com   
-
 LinkedIn:https://www.linkedin.com/in/manoj-siddardha-46987537b
